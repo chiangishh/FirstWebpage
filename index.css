@@ -1,0 +1,48 @@
+.header {
+    background-color: hotpink;
+    padding: 10px;
+}
+.nav {
+    background-color: lightpink;
+    display: inline-block;
+    padding: 15px;    
+    color: black;
+    font-family: 'Caveat', cursive;
+}
+.topleft {
+    width: 30%;
+    float: left;
+    height: 900px;
+    color: black;
+    background-color:palevioletred;
+}
+.mocha {
+    font-family: 'Lobster', cursive;
+}
+.topRight {
+    height: 900px;
+    width: 70%;
+    float: right;
+    text-align: left;
+    color: black;
+    background-color:lightpink;
+}
+img {
+    width: 320px;
+    height: 500px;
+}
+
+.photo {
+    float: left;
+    height: 400px;
+    width: 400px;
+}
+
+.five {
+    width: 300px;
+    height: 400px;
+    display: inline-block;
+}
+.header2 {
+    font-family: 'Lobster', cursive;
+}
